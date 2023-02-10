@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674726136567",
+    "firebase_url": "https://fcmproject-1d49a.firebaseio.com",
+    "project_id": "fcmproject-1d49a",
+    "storage_bucket": "fcmproject-1d49a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674726136567:android:eb013759df009ca138e1f2",
+        "android_client_info": {
+          "package_name": "com.coderpakistan.ghazamarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674726136567-qj15ovva8645199l43vp8accpaak2q51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Snk0ClnDRzb0OPahPcWlhW97uZxU9LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674726136567-qj15ovva8645199l43vp8accpaak2q51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
